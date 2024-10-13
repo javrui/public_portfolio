@@ -91,7 +91,7 @@ https://cs50.harvard.edu/certificates/b9c4edc9-a457-4973-b9c7-d9820a45eb46)
 
 
 
-### **IBM Git&GitHub BAsics**
+### **IBM Git&GitHub Basics**
 
 Contenido del curso:<br>
 https://www.edx.org/es/learn/github/ibm-git-and-github-basics
