@@ -10,7 +10,7 @@ Veo la oportunidad de recuperar mi pasion por el desarrollo de SW. Voy sustituye
 
 
 
-## Scraping de Intranet.
+## Scraping de Intranet corporativa
 
 Mis primeros scripts recogen datos de la Intranet mediante técnicas de scraping, y una vez definido el pedido, solicita su lanzamiento inyectando los formularios  correspondientes en la Intranet. Creo una librería propia y la utilizo para resolver la tarea frecuente de analizar y lanzar pedidos cuyos datos básicos se encuentran en un excel y se complementan en la Intranet. Disminuye así considerablemente la posibilidad de errores de tareas manuales notablemente laboriosas.
 
@@ -31,11 +31,11 @@ Como es común en los desarrollos de scraping, es necesario rehacer partes de la
 - BURP Community Suite
 
 
-## Análisis con Pandas de volcados masivos a excel.
+## Base de datos pandas
 
 En cierta etapa, se despliega como herramienta estratégica en la compañía Power BI. La jefatura empieza a generar informes con ella como base de nuestra labor diaria. Lo hace importando ficheros excel volcados a diario desde la base de datos de la Intranet. Descubro así que puedo acceder a muchos de los datos que necesito, directamente de estos ficheros.
 
-Refactorizo gran parte de las consultas en mi librería. Sustituyo el scraping (relativamente lento) por el tratamiento de estos ficheros excel. Elijo utilizar la librería pandas, dada su potencia para el cruzado de datos, su capacidad de manejar volúmenes elevados (comno es el caso), y su rapidez de ejecución.
+Refactorizo gran parte de las consultas en mi librería. Sustituyo el scraping (relativamente lento) por el tratamiento de estos ficheros excel. Elijo utilizar la librería pandas, que suscita mi interés por su potencia para el cruzado de datos, capacidad de manejar volúmenes elevados dedatos (como es el caso), y rapidez de ejecución.
 
 Sobre la nueva librería desarrollo scripts que, tras una pesada carga inicial de datos, proporcionan consultas muy rápidas y completas sobre casi todos los datos relevantes que utilizo. También generan informes en excel que son base de diversos scripts de análisis y generación de pedidos. El rendimiento en mi día a día se dispara.
 
