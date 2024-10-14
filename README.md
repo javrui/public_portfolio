@@ -15,13 +15,10 @@ Proyectos que han tenido código operativo, pero no puedo publicar:
 
 
 # <span style="color: #8c6459;">Formación</span>
-
 Formación mas reciente:
 
 ### [HarvardX: "CS50's Introduction to Artificial Intelligence with Python]()
-
 ### [IBM: Git&GitHub Basics]()
-
 
 
 
