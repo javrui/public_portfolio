@@ -55,7 +55,7 @@ Disfrutando de la programación completamente orientada a objeto sobre mi nueva 
 
 
 
-## Evolución hacia nuevo sistema de pedidos
+## Evolución hacia nuevo sistema de pedidos, SQL
 
 La estructura de datos de intercambio para las solicitudes de pedidos sufre una modificación importante, como consecuencia de una reestructuración en el grupo de empresas. Participo en el proyecto de migración los pedidos a caballo entre los dos sistemas. Y nuevamente, mis scripts me permiten hacer verificación, análisis y transformación de datos de forma fiable y mucho mas eficiente.
 
