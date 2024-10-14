@@ -51,10 +51,6 @@ Sobre la nueva librería desarrollo scripts que, tras una pesada carga inicial d
 ## Versión OOP de la librería de scraping
 
 Cuando dispongo de cierta estabilidad y tiempo, decido refactorizar mi librería de scraping para escribirla completamente orientada a objetos. Diseño una jerarquía de clases que me permitirá abordar de forma eficiente el scraping de otros formularios de la Intranet en el futuro.
-
-
-## Script de análisis histórico
-
 Disfrutando de la programación completamente orientada a objeto sobre mi nueva librería, construyo scripts que gestionan el análisis de pedidos de una forma más exhaustiva, al disponer ágilmente de datos históricos. Con ello automatizo nuevas tareas que se nos han ido asignando.
 
 
@@ -63,11 +59,7 @@ Disfrutando de la programación completamente orientada a objeto sobre mi nueva 
 
 La estructura de datos de intercambio para las solicitudes de pedidos sufre una modificación importante, como consecuencia de una reestructuración en el grupo de empresas. Participo en el proyecto de migración los pedidos a caballo entre los dos sistemas. Y nuevamente, mis scripts me permiten hacer verificación, análisis y transformación de datos de forma fiable y mucho mas eficiente.
 
-
-## Rozo SQL
-
 Todo esto ocurre mientras se está implantando SAP for Hanna de forma masiva para gestionar el end-to-end. El sistema de gestion cambia completamente; desaparece la antigua Intranet, y el modelo de datos cambia notablemente. Consigo acceso a una réplica de la nueva base de datos corporativa, pero aun sin su especificación. Empiezo a jugar con pyodbc (SQLite) en mis scripts mientras accedo con SQLServer a unos datos de cuya documentación no disponemos, lo que me impide poder realizar desarrollos mínimamente útiles.
-
 
 Y entretanto llega la oportunidad de salir de mi empresa en condiciones favorables, y así poder orientar mi carrera profesional en el campo del desarrollo, que abrazo como se merece un amor de juventud.
 
