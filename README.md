@@ -29,7 +29,7 @@ Como es común en los desarrollos de scraping, es necesario rehacer partes de la
 #### Utilidades usadas:
 - BURP Community Suite
 
-## <span style="color: #8c6459;">Análisis y manipulaciópn de datos con pandas</span>
+## <span style="color: #8c6459;">Análisis y manipulación de datos con pandas</span>
 
 En cierta etapa, se despliega como herramienta estratégica en la compañía Power BI. La jefatura empieza a generar informes con ella como base de nuestra labor diaria. Lo hace importando ficheros excel volcados a diario desde la base de datos de la Intranet. Descubro así que puedo acceder a muchos de los datos que necesito, directamente de estos ficheros.
 
