@@ -1,5 +1,7 @@
 # PORFOLIO
 
+## <span style="color: #8c6459;">Este es un título colorido</span>
+y su texto normal
 ## Antecedentes: un amor de juventud
 
 Mi proyecto fin de carrera fue el desarrollo en C de un evaluador de expresiones lógicas parte de un sistema experto. La primera etapa profesional siguó ceñida al desarrollo, pero pronto derivó por otros derroteros.
