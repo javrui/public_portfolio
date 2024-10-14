@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>README</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    h1, h2, h3, h4, h5, h6 {
+      color: #8c6459;
+  </style>
+</head>
+<body>
+<h1 id="porfolio">PORFOLIO</h1>
+<h2 id="un-amor-de-juventud-recuperado">Un amor de juventud recuperado</h2>
+<p>Mi proyecto fin de carrera fue el desarrollo en C de un evaluador de expresiones lógicas parte de un sistema experto. La primera etapa profesional siguó ceñida al desarrollo, pero pronto derivó por otros derroteros.</p>
+<p>Hace tres años, jefaturas de varias Direcciones de Provisión se transforman y nos reubican a la mayoría de los Jefes de Proyecto. Mi nueva jefatura controla y gestiona la renovación de pedidos a provedores; solicitamos al Departamento de Compras el lanzamiento de pedidos, previo análisis de ciertos datos.</p>
+<p>Veo la oportunidad de recuperar mi pasion por el desarrollo de SW. Voy sustituyendo estos procesos, fundamentalmente manuales, por scripts python. En un entorno muy dinámico que me enfrenta a la labor de mantenimiento y depurado constante de mi propio SW. Disfruto mucho con ello.</p>
+<h2 id="scraping-de-intranet-corporativa">Scraping de Intranet corporativa</h2>
+<p>Mis primeros scripts recogen datos de la Intranet mediante técnicas de scraping, y una vez definido el pedido, solicita su lanzamiento inyectando los formularios correspondientes en la Intranet. Creo una librería propia y la utilizo para resolver la tarea frecuente de analizar y lanzar pedidos cuyos datos básicos se encuentran en un excel y se complementan en la Intranet. Disminuye así considerablemente la posibilidad de errores de tareas manuales notablemente laboriosas.</p>
+<p>Como es común en los desarrollos de scraping, es necesario rehacer partes de la librería ante ciertas modificaciones de la Intranet. Tener que mantener código olvidado hace meses, acentúa la importancia de una adecuada documentación.</p>
+<h4 id="librerías-python-utilizadas">librerías python utilizadas:</h4>
+<ul>
+<li>beautifulsoup</li>
+<li>requests</li>
+<li>openpyxl</li>
+<li>os</li>
+<li>sys</li>
+<li>colorama</li>
+<li>mi propia librería de scraping Intranet</li>
+</ul>
+<h4 id="utilidades-usadas">Utilidades usadas:</h4>
+<ul>
+<li>BURP Community Suite</li>
+</ul>
+<h2 id="base-de-datos-pandas">Base de datos pandas</h2>
+<p>En cierta etapa, se despliega como herramienta estratégica en la compañía Power BI. La jefatura empieza a generar informes con ella como base de nuestra labor diaria. Lo hace importando ficheros excel volcados a diario desde la base de datos de la Intranet. Descubro así que puedo acceder a muchos de los datos que necesito, directamente de estos ficheros.</p>
+<p>Refactorizo gran parte de las consultas en mi librería. Sustituyo el scraping (relativamente lento) por el tratamiento de estos ficheros excel. Elijo utilizar la librería pandas, que suscita mi interés por su potencia para el cruzado de datos, capacidad de manejar volúmenes elevados dedatos (como es el caso), y rapidez de ejecución.</p>
+<p>Sobre la nueva librería desarrollo scripts que, tras una pesada carga inicial de datos, proporcionan consultas muy rápidas y completas sobre casi todos los datos relevantes que utilizo. También generan informes en excel que son base de diversos scripts de análisis y generación de pedidos. El rendimiento en mi día a día se dispara.</p>
+<h4 id="librerías-python-utilizadas-1">librerías python utilizadas:</h4>
+<ul>
+<li>pandas</li>
+<li>os</li>
+<li>sys</li>
+<li>colorama</li>
+<li>openpyxl</li>
+</ul>
+<h2 id="versión-oop-de-la-librería-de-scraping">Versión OOP de la librería de scraping</h2>
+<p>Cuando dispongo de cierta estabilidad y tiempo, decido refactorizar mi librería de scraping para escribirla completamente orientada a objetos. Diseño una jerarquía de clases que me permitirá abordar de forma eficiente el scraping de otros formularios de la Intranet en el futuro. Disfrutando de la programación completamente orientada a objeto sobre mi nueva librería, construyo scripts que gestionan el análisis de pedidos de una forma más exhaustiva, al disponer ágilmente de datos históricos. Con ello automatizo nuevas tareas que se nos han ido asignando.</p>
+<h2 id="evolución-hacia-nuevo-sistema-de-pedidos">Evolución hacia nuevo sistema de pedidos</h2>
+<p>La estructura de datos de intercambio para las solicitudes de pedidos sufre una modificación importante, como consecuencia de una reestructuración en el grupo de empresas. Participo en el proyecto de migración los pedidos a caballo entre los dos sistemas. Y nuevamente, mis scripts me permiten hacer verificación, análisis y transformación de datos de forma fiable y mucho mas eficiente.</p>
+<p>Todo esto ocurre mientras se está implantando SAP for Hanna de forma masiva para gestionar el end-to-end. El sistema de gestion cambia completamente; desaparece la antigua Intranet, y el modelo de datos cambia notablemente. Consigo acceso a una réplica de la nueva base de datos corporativa, pero aun sin su especificación. Empiezo a jugar con pyodbc (SQLite) en mis scripts mientras accedo con SQLServer a unos datos de cuya documentación no disponemos, lo que me impide poder realizar desarrollos mínimamente útiles.</p>
+<p>Y entretanto llega la oportunidad de salir de mi empresa en condiciones favorables, y así poder orientar mi carrera profesional en el campo del desarrollo, que abrazo como se merece un amor de juventud.</p>
+<h2 id="formación">Formación</h2>
+<p>Tras mi salida de la empresa, consciente de la necesidad de formarme continuamente, realizo estos cursos:</p>
+<h3 id="harvardx-cs50s-introduction-to-artificial-intelligence-with-python-ojo-version-ingles-para-cv-en-ingles"><strong>HarvardX: “CS50’s Introduction to Artificial Intelligence with Python” (OJO VERSION INGLES PARA CV EN INGLES</strong></h3>
+<p>Contenido del curso:<br> https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python</p>
+<p>Certificado de realización:</p>
+<p><img src="Certificate_CS50AI.png" alt="Certificado" width="561" height="397"></p>
+<p>(Verificable en:<br> https://cs50.harvard.edu/certificates/b9c4edc9-a457-4973-b9c7-d9820a45eb46)</p>
+<h3 id="ibm-gitgithub-basics"><strong>IBM Git&amp;GitHub Basics</strong></h3>
+<p>Contenido del curso:<br> https://www.edx.org/es/learn/github/ibm-git-and-github-basics</p>
+<p>Certificado de realización:<br> <strong>(pendiente)</strong></p>
+</body>
+</html>
