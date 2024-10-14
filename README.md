@@ -1,6 +1,6 @@
 # PORFOLIO
 
-## Un amor de juventud recuperado
+## Un amor de juventud
 
 Mi proyecto fin de carrera fue el desarrollo en C de un evaluador de expresiones lógicas parte de un sistema experto. La primera etapa profesional siguó ceñida al desarrollo, pero pronto derivó por otros derroteros.
 
