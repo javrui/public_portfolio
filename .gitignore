@@ -1,0 +1,4 @@
+bkp/
+old/
+convertREADMEtoINDEX.sh
+PANDOC_pandoc -s archivo.md -o archivo.html.txt
