@@ -1,8 +1,8 @@
 # PORFOLIO
 
 # <span style="color: #8c6459;">Últimos proyectos</span>
-### [laberintos](maze.md)
-### [nim](nim.md)
+### [IA: Search algorithms](search.md)
+### [IA: Machine Learning](nim.md)
 
 
 # <span style="color: #8c6459;">Antecedentes</span>
