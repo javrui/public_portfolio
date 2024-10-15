@@ -17,3 +17,5 @@ Como es común en los desarrollos de scraping, es necesario rehacer partes de la
 
 #### Utilidades usadas:
 - BURP Community Suite
+
+Estos desarrollos han tenido código operativo. No considero que pueda publicarlo pues exponen detalles internos de mi anterior empresa.

@@ -13,3 +13,6 @@ Sobre la nueva librería desarrollo scripts que, tras una pesada carga inicial d
 - sys
 - colorama
 - openpyxl
+
+
+Estos desarrollos han tenido código operativo. No considero que pueda publicarlo pues exponen detalles internos de mi anterior empresa.

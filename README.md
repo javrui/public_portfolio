@@ -6,8 +6,8 @@
 
 
 # <span style="color: #8c6459;">Antecedentes</span>
-Proyectos que han tenido código operativo, pero no puedo publicar:
 
+### [reorientación profesional](antecedentes.md)
 ### [scraping de intranet corporativa](scraping_intranet.md)
 ### [análisis y manipulación de datos con pandas](pandas.md)
 ### [refactorización OOP](oop.md)
