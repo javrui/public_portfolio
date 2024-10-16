@@ -1,11 +1,11 @@
 # PORFOLIO
 
-# <span style="color: #8c6459;">Últimos proyectos</span>
+## <span style="color: #8c6459;">Últimos proyectos</span>
 - [IA: Search algorithms](search.md)
 - [IA: Machine Learning](nim.md)
 
 
-# <span style="color: #8c6459;">Antecedentes</span>
+## <span style="color: #8c6459;">Antecedentes</span>
 
 - [reorientación profesional](antecedentes.md)
 - [scraping de intranet corporativa](scraping_intranet.md)
@@ -14,7 +14,7 @@
 
 
 
-# <span style="color: #8c6459;">Formación</span>
+## <span style="color: #8c6459;">Formación</span>
 Formación mas reciente:
 
 - [HarvardX: "CS50's Introduction to Artificial Intelligence with Python]()
@@ -22,4 +22,5 @@ Formación mas reciente:
 
 
 
-## Descarga de CV: <>
+## <span style="color: #8c6459;">[CV](cv.pdf)</span>
+
