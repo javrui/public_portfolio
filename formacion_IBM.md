@@ -1,7 +1,10 @@
-## <span style="color: #8c6459;">Formación</span>
+### **IBM: Git&GitHub Basics**
+2024
 
+Curso de 3 semanas que termina con ejercicio práctico de creación de un fork, clonado y su modificación en local para terminar con una pull request de incorporación de lso cambios en el repo original.
 
-### **IBM Git&GitHub Basics**
+3 weeks training with a hands-on lab where we fork a GitHub repository, clone it, modify and push it back to our GitHub fork, to create a pull request to add  updates to the original repository.
+
 
 Contenido del curso:<br>
 https://www.edx.org/es/learn/github/ibm-git-and-github-basics
