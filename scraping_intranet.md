@@ -1,8 +1,12 @@
 ## <span style="color: #8c6459;">Scraping de Intranet corporativa</span>
 
-Mis primeros scripts recogen datos de la Intranet mediante técnicas de scraping, y una vez definido el pedido, solicita su lanzamiento inyectando los formularios  correspondientes en la Intranet. Creo una librería propia y la utilizo para resolver la tarea frecuente de analizar y lanzar pedidos cuyos datos básicos se encuentran en un excel y se complementan en la Intranet. Disminuye así considerablemente la posibilidad de errores de tareas manuales notablemente laboriosas.
+Empiezo creando un módulo python que implementa técnicas de web scraping para obtener datos de la Intranet, y permite inyectar en ella los formularios de las diversas solicitudes de pedido.
 
-Como es común en los desarrollos de scraping, es necesario rehacer partes de la librería ante ciertas modificaciones de la Intranet. Tener que mantener código olvidado hace meses, acentúa la importancia de una adecuada documentación.
+
+Sobre esa base, creao scripts que procesan archivos excel, consultan la Intranet, analizan todos estos datos y automatizan en gran medida la solicitud de pedidos. Disminuyo mucho la posibilidad de errores en tareas manuales muy laboriosas.
+
+
+Como es común en los desarrollos de scraping, es necesario ir modificando el módulo cuando me encuentro con alguna modificación en la Intranet. Algo que generalmente es excepcional pero en este periodo ocurre mas de una vez. Mantener código creado (¡y olvidado!) hace meses, revela la importancia de documentarlo bien.
 
 
 #### librerías python utilizadas:
@@ -18,4 +22,4 @@ Como es común en los desarrollos de scraping, es necesario rehacer partes de la
 #### Utilidades usadas:
 - BURP Community Suite
 
-Estos desarrollos han estado plenamente operativos. Pero no estoy autorizado a publicarlos pues exponen detalles internos de los sistemas de mi anterior empresa.
+Estos desarrollos han estado plenamente operativos. Pero no estoy autorizado a publicarlos pues exponen detalles internos de los sistemas de mi anterior empresa. Y porqué no decirlo: no estoy especialmente orgulloso de cómo escribía mi primer código Python mientras iba profundizando en su aprendizaje.
