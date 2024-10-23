@@ -3,7 +3,7 @@
 Empiezo creando un módulo python que implementa técnicas de web scraping para obtener datos de la Intranet, y permite inyectar en ella los formularios de las diversas solicitudes de pedido.
 
 
-Sobre esa base, crea scripts que procesan archivos excel, consultan la Intranet, analizan todos estos datos y automatizan en gran medida la solicitud de pedidos. Disminuyo mucho la posibilidad de errores en tareas manuales muy laboriosas.
+Sobre esa base, creo scripts que procesan archivos excel, consultan la Intranet, analizan todos estos datos y automatizan en gran medida la solicitud de pedidos. Disminuyo mucho la posibilidad de errores en tareas manuales muy laboriosas.
 
 
 Como es común en los desarrollos de scraping, es necesario ir reconstruyendo partes del módulo cuando me encuentro con alguna modificación en la Intranet. Algo que generalmente es excepcional pero en este periodo ocurre mas de una vez. Mantener código creado (¡y olvidado!) hace meses, revela la importancia de documentarlo bien.
@@ -16,7 +16,7 @@ Como es común en los desarrollos de scraping, es necesario ir reconstruyendo pa
 - os
 - sys
 - colorama
-- mi propia librería de scraping Intranet
+- mi propio módulo de scraping Intranet
 
 
 #### Utilidades usadas:
