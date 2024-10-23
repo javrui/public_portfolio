@@ -11,6 +11,7 @@
 - [scraping de intranet corporativa](scraping_intranet.md)
 - [análisis y manipulación de datos con pandas](pandas.md)
 - [refactorización OOP](oop.md)
+- [salida](nuevo_sistema.md)
 
 
 
