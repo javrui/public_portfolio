@@ -1,7 +1,7 @@
 # PORFOLIO
 
 ## <span style="color: #8c6459;">Últimos proyectos</span>
-- [IA: Search algorithms](search.md)
+- [IA: Search algorithms](https://github.com/javrui/search-maze-puzzle/blob/main/README.md)
 - [IA: Machine Learning](nim.md)
 
 
