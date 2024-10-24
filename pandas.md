@@ -7,7 +7,7 @@ Refactorizo gran parte de las consultas en mi librería. Sustituyo el scraping (
 Sobre la nueva librería desarrollo scripts que, tras una pesada carga inicial, proporcionan consultas muy rápidas y completas sobre casi todos los datos relevantes que utilizo. También generan informes en excel que son entrada a diversos scripts de análisis y generación de pedidos. El rendimiento en mi día a día aumenta bastante.
 
 
-#### librerías python utilizadas:
+#### librerías Python utilizadas:
 - pandas
 - os
 - sys

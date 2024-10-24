@@ -2,14 +2,19 @@
 
 
 ## <span style="color: #8c6459;">Sobre mí / About me</span>
-- [presentación](texto de cv.md)
-- [reorientación profesional](antecedentes.md)
+
+Ingeniero Industrial con mas de 30 años de experiencia en el sector de las tecnologías de la Información.
+
+He reorientado mi carrera profesional hacia mi pasión por el diseño y desarrollo de software, especialmente en lenguaje Python.
+
+- [El software y yo](sw_y_yo.md)
 
 ## <span style="color: #8c6459;">Formación</span>
-Formación mas reciente:
 
-- [HarvardX: "CS50's Introduction to Artificial Intelligence with Python](formacion_CS50AI.md)
-- [IBM: Git&GitHub Basics](formacion_IBM.md)
+- [Curso (HarvardX): "CS50's Introduction to Artificial Intelligence with Python (2024)](formacion_CS50AI.md)
+- [Curso (IBM): Git&GitHub Basics(2024)](formacion_IBM.md)
+- ITIL Service Manager (2008)
+- Ingeniero Industrial, Escuela Técnica Superior de Ingenieros Industriales de Madrid, especialidad Regulación Automática y Electrónica (1992)
 
 
 
@@ -20,12 +25,13 @@ Formación mas reciente:
 - >> [scraping de intranet corporativa](scraping_intranet.md)
 - >> [análisis y manipulación de datos con pandas](pandas.md)
 - >> [refactorización OOP](oop.md)
-- >> [SQL](nuevo_sistema.md)
+- >> [SQL](SQL.md)
 
 
 
 ## <span style="color: #8c6459;">Contacto / CV</span>
-javruimantech@gmail.com
 
-[CV](cv.pdf)
+[javruimantech@gmail.com](mailto:javruimantech@gmail.com)
+
+[Curriculum Vitae](cv.pdf)
 

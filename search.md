@@ -12,4 +12,4 @@ Script que resuelve laberintos, utilizando el módulo.
 Script que resuelve ciertos puzles, utilizando el módulo.
 
 
-El código del módulo es una adaptación y refactorización (orientándo completamente a objeto) de parte del código de algunos ejemplos del curso [HarvardX:CS50’s Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python)
+El código del módulo es una adaptación y refactorización (orientándo completamente a objeto) de parte del código de algunos ejemplos del curso [HarvardX:CS50’s Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-Python)

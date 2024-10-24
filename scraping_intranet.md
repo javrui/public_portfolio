@@ -1,6 +1,8 @@
 ## <span style="color: #8c6459;">Scraping de Intranet corporativa</span>
 
-Empiezo creando un módulo python que implementa técnicas de web scraping para obtener datos de la Intranet, y permite inyectar en ella los formularios de las diversas solicitudes de pedido.
+Mi nueva jefatura se encarga de controlar y gestionar la renovación de pedidos a provedores. Solicita al Departamento de Compras el lanzamiento de pedidos previo análisis de ciertos datos. Es una labor fundamentalmente adminsitrativa y muy manual, que decido sustituir por desarrollos propios.
+
+Empiezo creando un módulo Python que implementa técnicas de web scraping para obtener datos de la Intranet, y permite inyectar en ella los formularios de las diversas solicitudes de pedido.
 
 
 Sobre esa base, creo scripts que procesan archivos excel, consultan la Intranet, analizan todos estos datos y automatizan en gran medida la solicitud de pedidos. Disminuyo mucho la posibilidad de errores en tareas manuales muy laboriosas.
@@ -9,7 +11,7 @@ Sobre esa base, creo scripts que procesan archivos excel, consultan la Intranet,
 Como es común en los desarrollos de scraping, es necesario ir reconstruyendo partes del módulo cuando me encuentro con alguna modificación en la Intranet. Algo que generalmente es excepcional pero en este periodo ocurre mas de una vez. Mantener código creado (¡y olvidado!) hace meses, revela la importancia de documentarlo bien.
 
 
-#### librerías python utilizadas:
+#### librerías Python utilizadas:
 - beautifulsoup
 - requests
 - openpyxl
