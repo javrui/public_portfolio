@@ -1,6 +1,6 @@
 ## <span style="color: #8c6459;">Nuevo sistema de pedidos, SQL</span>
 
-<img src="imagen_SQL.jpg" width="1280" height="1920">
+<img src="imagen_SQL.jpg" width="960" height="640">
 
 
 La estructura de datos de intercambio para las solicitudes de pedidos sufre una modificación importante, como consecuencia de una reestructuración en el grupo de empresas. Participo en el proyecto de migración los pedidos a caballo entre los dos sistemas. Y nuevamente, mis scripts me permiten hacer verificación, análisis y transformación de datos de forma fiable y mucho mas eficiente.
