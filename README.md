@@ -1,19 +1,9 @@
-# PORFOLIO
-
-## <span style="color: #8c6459;">Últimos proyectos</span>
-- [IA: Search algorithms](https://github.com/javrui/search-maze-puzzle/blob/main/README.md)
-- [IA: Machine Learning](nim.md)
+# PORTFOLIO
 
 
-## <span style="color: #8c6459;">Antecedentes</span>
-
+## <span style="color: #8c6459;">Sobre mí / About me</span>
+- [presentación](texto de cv.md)
 - [reorientación profesional](antecedentes.md)
-- [scraping de intranet corporativa](scraping_intranet.md)
-- [análisis y manipulación de datos con pandas](pandas.md)
-- [refactorización OOP](oop.md)
-- [salida](nuevo_sistema.md)
-
-
 
 ## <span style="color: #8c6459;">Formación</span>
 Formación mas reciente:
@@ -23,5 +13,19 @@ Formación mas reciente:
 
 
 
-## <span style="color: #8c6459;">[CV](cv.pdf)</span>
+## <span style="color: #8c6459;">Mis proyectos</span>
+- [2024 IA: Search algorithms](https://github.com/javrui/search-maze-puzzle/blob/main/README.md)
+- [2024 IA: Machine Learning](nim.md)
+- 2021-2023 Desarrollos corporativos
+- >> [scraping de intranet corporativa](scraping_intranet.md)
+- >> [análisis y manipulación de datos con pandas](pandas.md)
+- >> [refactorización OOP](oop.md)
+- >> [SQL](nuevo_sistema.md)
+
+
+
+## <span style="color: #8c6459;">Contacto / CV</span>
+javruimantech@gmail.com
+
+[CV](cv.pdf)
 
